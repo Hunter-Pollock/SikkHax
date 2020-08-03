@@ -1,7 +1,7 @@
 <p>
 <p align="center">SikkHax</p>
   <p align="center">
-  <a href="https://sikkhax.tk/sikkhax_release/SikkHax.exe">Download</a> <b>·</b> <a href="https://github.com/Hunter-Pollock/SikkHax/wiki">Wiki</a> <b>·</b> <a href="https://github.com/Hunter-Pollock/SikkHax/issues">Bug Tracker</a> <b>·</b> <a href="https://discord.gg/Ts3w5TA">Discord</a>
+  <a href="https://sikkhax.tk/sikkhax_installer/SikkHax.exe">Download</a> <b>·</b> <a href="https://github.com/Hunter-Pollock/SikkHax/wiki">Wiki</a> <b>·</b> <a href="https://github.com/Hunter-Pollock/SikkHax/issues">Bug Tracker</a> <b>·</b> <a href="https://discord.gg/Ts3w5TA">Discord</a>
   </p>
 </p>
 
