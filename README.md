@@ -1,7 +1,7 @@
 <p>
 <p align="center">SikkHax</p>
   <p align="center">
-  <a href="http://docs.synapse.to">API Documentation</a> <b>·</b> <a href="https://github.com/LoukaMB/SynapseX/wiki">Wiki</a> <b>·</b> <a href="https://github.com/LoukaMB/SynapseX/issues">Bug Tracker</a>
+  <a href="#">API Documentation</a> <b>·</b> <a href="https://github.com/Hunter-Pollock/SikkHax/wiki">Wiki</a> <b>·</b> <a href="https://github.com/Hunter-Pollock/SikkHax/issues">Bug Tracker</a>
   </p>
 </p>
 
