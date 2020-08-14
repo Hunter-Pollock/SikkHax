@@ -5,6 +5,8 @@
   </p>
 </p>
 
+**SikkHax is currently free!**
+
 ## What is SikkHax?
 **Sikkhax** is a proprietary lua script execution utility developed by [Hunter Pollock](https://github.com/Hunter-Pollock) tailored for ambitious developers and aspiring hobbyists alike. It can be used to debug games, analyze script behavior, conduct penetration testing or simply toy around with the lua programming language.
 It can be purchased by **Nitro Boosting** our [discord server](https://discord.gg/Ts3w5TA). This repository contains the [SikkHax Wiki](https://github.com/Hunter-Pollock/SikkHax/wiki) and the **API Documentation**.
